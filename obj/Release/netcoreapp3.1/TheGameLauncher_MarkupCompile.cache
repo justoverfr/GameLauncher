@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\jeanj\Source\Repos\GameLauncher\obj\Debug\netcoreapp3.1\
+C:\Users\jeanj\Source\Repos\GameLauncher\obj\Release\netcoreapp3.1\
 TheGameLauncher
 none
 false
-TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
+TRACE;RELEASE;NETCOREAPP;NETCOREAPP3_1;
 C:\Users\jeanj\Source\Repos\GameLauncher\App.xaml
 11407045341
 

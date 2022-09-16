@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\jeanj\source\repos\TheGameLauncher\obj\Debug\netcoreapp3.1\
+C:\Users\jeanj\source\repos\GameLauncher\obj\Debug\netcoreapp3.1\
 TheGameLauncher
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
-C:\Users\jeanj\source\repos\TheGameLauncher\App.xaml
+C:\Users\jeanj\source\repos\GameLauncher\App.xaml
 11407045341
 
 7-468351628
 192-1533232326
 MainWindow.xaml;
 
-True
+False
 

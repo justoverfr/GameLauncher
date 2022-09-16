@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jeanj\\source\\repos\\TheGameLauncher\\TheGameLauncher.csproj": {}
+    "C:\\Users\\jeanj\\source\\repos\\GameLauncher\\TheGameLauncher.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jeanj\\source\\repos\\TheGameLauncher\\TheGameLauncher.csproj": {
+    "C:\\Users\\jeanj\\source\\repos\\GameLauncher\\TheGameLauncher.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jeanj\\source\\repos\\TheGameLauncher\\TheGameLauncher.csproj",
+        "projectUniqueName": "C:\\Users\\jeanj\\source\\repos\\GameLauncher\\TheGameLauncher.csproj",
         "projectName": "TheGameLauncher",
-        "projectPath": "C:\\Users\\jeanj\\source\\repos\\TheGameLauncher\\TheGameLauncher.csproj",
+        "projectPath": "C:\\Users\\jeanj\\source\\repos\\GameLauncher\\TheGameLauncher.csproj",
         "packagesPath": "C:\\Users\\jeanj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jeanj\\source\\repos\\TheGameLauncher\\obj\\",
+        "outputPath": "C:\\Users\\jeanj\\source\\repos\\GameLauncher\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jeanj\\AppData\\Roaming\\NuGet\\NuGet.Config",

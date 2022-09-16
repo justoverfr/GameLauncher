@@ -16,6 +16,8 @@ using System.Windows.Shapes;
 
 namespace TheGameLauncher
 {
+    //Ceci est un commentaire
+
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>

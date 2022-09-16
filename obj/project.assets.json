@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jeanj\\source\\repos\\TheGameLauncher\\TheGameLauncher.csproj",
+      "projectUniqueName": "C:\\Users\\jeanj\\Source\\Repos\\GameLauncher\\TheGameLauncher.csproj",
       "projectName": "TheGameLauncher",
-      "projectPath": "C:\\Users\\jeanj\\source\\repos\\TheGameLauncher\\TheGameLauncher.csproj",
+      "projectPath": "C:\\Users\\jeanj\\Source\\Repos\\GameLauncher\\TheGameLauncher.csproj",
       "packagesPath": "C:\\Users\\jeanj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jeanj\\source\\repos\\TheGameLauncher\\obj\\",
+      "outputPath": "C:\\Users\\jeanj\\Source\\Repos\\GameLauncher\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jeanj\\AppData\\Roaming\\NuGet\\NuGet.Config",
